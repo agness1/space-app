@@ -1,3 +1,9 @@
+### Screenshot
+![](./src/store/screenShots/FireShot%20Capture%20015%20-%20React%20App%20-%20localhost.png)
+![](./src/store/screenShots/FireShot%20Capture%20016%20-%20React%20App%20-%20localhost.png)
+![](./src/store/screenShots/FireShot%20Capture%20018%20-%20React%20App%20-%20localhost.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
